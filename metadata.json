@@ -1,0 +1,6 @@
+{
+  "name": "SIBK — Sistem Informasi Bimbingan dan Konseling",
+  "description": "Aplikasi web profesional untuk guru Bimbingan dan Konseling (BK) SMP/SMA dalam mengelola data siswa, absensi harian, kasus dan riwayat konseling, pemanggilan orang tua, pemantauan siswa, jadwal BK, serta laporan administrasi sekolah.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
